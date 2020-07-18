@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402450707613",
+    "firebase_url": "https://login-signup-e14dd.firebaseio.com",
+    "project_id": "login-signup-e14dd",
+    "storage_bucket": "login-signup-e14dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402450707613:android:3308674a88ae666fc81074",
+        "android_client_info": {
+          "package_name": "com.example.schaffen_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402450707613-ljq50td04b3q2b073iqhbkonp0s5jvu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSgF_l6nNl3IbnYZnAT4TeT-z1fwsLGVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402450707613-ljq50td04b3q2b073iqhbkonp0s5jvu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
